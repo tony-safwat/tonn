@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Identity Verification</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <style>
+        body {
+            background-image: url('file:///C:/Users/Electronica%20Care/Downloads/pngtree-shocking-appointment-home-appliance-digital-shop-home-page-image_172753.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .container {
+            background: rgba(0, 0, 0, 0.85);
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+            width: 90%;
+            max-width: 500px;
+            text-align: center;
+        }
+
+        header h1 {
+            font-weight: bold;
+            font-size: 32px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+            margin-bottom: 20px;
+        }
+
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+            margin-bottom: 20px;
+            color: rgba(255, 255, 255, 0.9);
+        }
+
+        label {
+            color: rgba(255, 255, 255, 0.9);
+            display: block;
+            margin-top: 20px;
+            font-size: 16px;
+            text-align: left;
+        }
+
+        input[type="file"] {
+            margin: 10px 0;
+            padding: 10px;
+            width: 100%;
+            border-radius: 5px;
+            border: 1px solid #ddd;
+            background: rgba(255, 255, 255, 0.1);
+            color: white;
+        }
+
+        button {
+            background: #ff5722;
+            height: 50px;
+            width: 100%;
+            border: none;
+            border-radius: 5px;
+            color: white;
+            font-size: 18px;
+            margin-top: 20px;
+            cursor: pointer;
+            transition: background 0.3s ease;
+        }
+
+        button:hover {
+            background: #e64a19;
+        }
+
+        button:active {
+            background: #d84315;
+        }
+
+        a {
+            color: #ffcc80;
+            text-decoration: none;
+            font-size: 14px;
+            display: block;
+            margin-top: 20px;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Identity Verification</h1>
+        </header>
+        <p>Please provide personal photos and ID card to verify your identity.</p>
+        <form action="/jobs" method="post" enctype="multipart/form-data">
+            <label for="photo">Personal Photo:</label>
+            <input type="file" id="photo" name="photo" required>
+            <label for="id_card">ID Card:</label>
+            <input type="file" id="id_card" name="id_card" required>
+            <a href="jobs.html">Next</a>
+        </form>
+        <a href="http://127.0.0.1:7860/" target="_blank">Go back to Gradio App</a>
+    </div>
+</body>
+</html>

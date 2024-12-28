@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interview Questions</title>
+</head>
+<body>
+    <h1>Answer the following questions:</h1>
+    <form action="/submit" method="post">
+        {% for question in questions %}
+            <p>{{ question }}</p>
+            <textarea name="question{{ loop.index }}" rows="4" cols="50"></textarea>
+            <br>
+        {% endfor %}
+        <input type="submit" value="Submit">
+    </form>
+    <div id="result"></div>
+    <script>
+        const form = document.querySelector('form');
+        form.onsubmit = async (e) => {
+            e.preventDefault();
+            const formData = new FormData(form);
+            const response = await fetch('/submit', {
+                method: 'POST',
+                body: formData
+            });
+            const result = await response.json();
+            document.getElementById('result').innerText = 'Prediction: ' + result.prediction;
+        };
+    </script>
+</body>
+</html>

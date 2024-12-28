@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Available Jobs</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <script>
+        function redirectToGradio(event) {
+            // منع الإرسال الفعلي للنموذج
+            event.preventDefault();
+            // التوجيه إلى صفحة Gradio
+            window.location.href = "http://127.0.0.1:7860/";
+        }
+    </script>
+    <style>
+        body {
+            background: linear-gradient(135deg, #1a237e, #f44336); /* هذا هو التدرج اللوني الأصلي */
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #fff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .container {
+            background: rgba(0, 0, 0, 0.7);
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+            width: 90%;
+            max-width: 600px;
+        }
+
+        header h1 {
+            font-weight: bold;
+            font-size: 28px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        p {
+            font-size: 16px;
+            line-height: 1.5;
+            margin-bottom: 20px;
+            color: rgba(255, 255, 255, 0.8);
+        }
+
+        ul {
+            padding-left: 20px;
+            margin-bottom: 20px;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        label {
+            color: rgba(255, 255, 255, 0.9);
+            display: block;
+            margin-top: 10px;
+        }
+
+        select {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+            border: 2px solid #f44336;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        }
+
+        button, a {
+            background: #f44336;
+            height: 40px;
+            width: 100%;
+            border: none;
+            border-radius: 5px;
+            color: white;
+            font-size: 16px;
+            margin-top: 10px;
+            cursor: pointer;
+            text-align: center;
+            display: block;
+            text-decoration: none;
+            line-height: 40px;
+            transition: background 0.3s ease;
+        }
+
+        button:hover, a:hover {
+            background: #d32f2f;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Available Jobs</h1>
+        </header>
+        <p>Here are the available job positions:</p>
+        <ul>
+            <li>Software Engineer - Requirements: Logical thinking, Problem-solving</li>
+            <li>Application Developer - Requirements: Logical thinking, Problem-solving</li>
+            <li>Software Tester/Quality Assurance Engineer - Requirements: Problem-solving</li>
+            <li>Systems Analyst - Requirements: Logical thinking, Problem-solving</li>
+            <li>Information Security Engineer - Requirements: Logical thinking, Problem-solving</li>
+            <li>IT Project Manager - Requirements: Problem-solving, Logical thinking</li>
+            <li>Database Administrator - Requirements: Logical thinking, Problem-solving</li>
+            <li>Network Engineer - Requirements: Logical thinking, Problem-solving</li>
+            <li>Data Analyst - Requirements: Logical thinking, Problem-solving</li>
+            <li>UI/UX Designer - Requirements: Logical thinking, Problem-solving</li>
+            <li>Digital Marketing Manager - Requirements: Logical thinking, Problem-solving</li>
+            <li>Web Developer - Requirements: Logical thinking, Problem-solving</li>
+        </ul>
+        <p>Please select the desired job position:</p>
+        <form onsubmit="redirectToGradio(event)">
+            <label for="selected_job">Select Job:</label>
+            <select id="selected_job" name="selected_job">
+                <option value="Software Engineer">Software Engineer</option>
+                <option value="Application Developer">Application Developer</option>
+                <option value="Software Tester/Quality Assurance Engineer">Software Tester/Quality Assurance Engineer</option>
+                <option value="Systems Analyst">Systems Analyst</option>
+                <option value="Information Security Engineer">Information Security Engineer</option>
+                <option value="IT Project Manager">IT Project Manager</option>
+                <option value="Database Administrator">Database Administrator</option>
+                <option value="Network Engineer">Network Engineer</option>
+                <option value="Data Analyst">Data Analyst</option>
+                <option value="UI/UX Designer">UI/UX Designer</option>
+                <option value="Digital Marketing Manager">Digital Marketing Manager</option>
+                <option value="Web Developer">Web Developer</option>
+            </select><br>
+            <button type="submit">Apply</button>
+        </form>
+        <p>Or click below to open the Gradio App:</p>
+        <a href="http://127.0.0.1:7860/" target="_blank">Go back to Gradio App</a>
+    </div>
+</body>
+</html>

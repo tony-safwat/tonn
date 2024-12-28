@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Technical Tests</title>
+    <style>
+        body {
+            background: linear-gradient(135deg, #4caf50, #2196f3);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #fff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .container {
+            background: rgba(0, 0, 0, 0.7);
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+            width: 90%;
+            max-width: 600px;
+            text-align: center;
+        }
+
+        header h1 {
+            font-weight: bold;
+            font-size: 32px;
+            text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.7);
+            margin-bottom: 20px;
+        }
+
+        header p {
+            font-size: 18px;
+            line-height: 1.5;
+            color: rgba(255, 255, 255, 0.8);
+        }
+
+        #timer {
+            font-size: 18px;
+            margin: 20px 0;
+            color: #ffeb3b;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+            text-align: left;
+        }
+
+        li {
+            background: rgba(255, 255, 255, 0.1);
+            margin-bottom: 10px;
+            padding: 15px;
+            border-radius: 5px;
+            color: rgba(255, 255, 255, 0.9);
+            font-size: 16px;
+        }
+
+        button {
+            background: #ff5722;
+            height: 50px;
+            width: 100%;
+            border: none;
+            border-radius: 5px;
+            color: white;
+            font-size: 18px;
+            margin-top: 20px;
+            cursor: pointer;
+            transition: background 0.3s ease;
+        }
+
+        button:hover {
+            background: #e64a19;
+        }
+
+        button:active {
+            background: #d84315;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Technical Tests</h1>
+            <p>Here you can find technical tests and questions related to the job position or required skills.</p>
+        </header>
+        <div id="timer">Time elapsed: 0 minutes and 0 seconds</div>
+        <ul id="question-list">
+            <li>Question 1: What is your approach to problem-solving in a team environment?</li>
+            <li>Question 2: Describe a project where you implemented logical thinking to overcome challenges.</li>
+            <li>Question 3: How do you stay updated with the latest trends in your industry?</li>
+        </ul>
+        <button onclick="submitTest()">Submit Answers</button>
+    </div>
+    <script>
+        let timer = 0;
+        const timerElement = document.getElementById('timer');
+        setInterval(() => {
+            timer++;
+            const minutes = Math.floor(timer / 60);
+            const seconds = timer % 60;
+            timerElement.textContent = `Time elapsed: ${minutes} minutes and ${seconds} seconds`;
+        }, 1000);
+
+        function submitTest() {
+            alert("Test submitted successfully!");
+        }
+    </script>
+</body>
+</html>

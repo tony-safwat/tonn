@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recruitment Portal</title>
+    <style>
+        body {
+            background: url('https://tavocacademy.com/wp-content/uploads/2022/03/HR-2-870x400.png') no-repeat center center fixed;
+            background-size: cover;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .container {
+            background: rgba(0, 0, 0, 0.7);
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+            width: 90%;
+            max-width: 500px;
+            text-align: center;
+        }
+
+        header h1 {
+            font-weight: bold;
+            font-size: 36px;
+            text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.8);
+            margin-bottom: 25px;
+        }
+
+        label {
+            color: rgba(255, 255, 255, 0.9);
+            display: block;
+            margin-top: 15px;
+            font-size: 16px;
+            text-align: left;
+        }
+
+        input, select {
+            width: 100%;
+            padding: 10px;
+            margin-top: 10px;
+            margin-bottom: 20px;
+            border-radius: 10px;
+            border: 1px solid #ddd;
+            box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
+            background: rgba(255, 255, 255, 0.2);
+            color: white;
+            font-size: 16px;
+        }
+
+        input::placeholder, select {
+            color: rgba(255, 255, 255, 0.7);
+        }
+
+        button {
+            background: rgb(45, 126, 231);
+            height: 50px;
+            width: 100%;
+            border: none;
+            border-radius: 10px;
+            color: white;
+            font-size: 18px;
+            font-weight: bold;
+            margin-top: 20px;
+            cursor: pointer;
+            transition: background 0.3s ease, transform 0.2s ease;
+        }
+
+        button:hover {
+            background: rgb(35, 96, 191);
+        }
+
+        button:active {
+            background: rgb(25, 76, 151);
+            transform: scale(0.98);
+        }
+
+        a {
+            color: #ffcc80;
+            text-decoration: none;
+            font-size: 14px;
+            display: block;
+            margin-top: 20px;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Recruitment Portal</h1>
+        </header>
+        <form id="userForm">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" placeholder="Enter your name" required>
+
+            <label for="age">Age:</label>
+            <input type="number" id="age" name="age" placeholder="Enter your age" required>
+
+            <label for="gender">Gender:</label>
+            <select id="gender" name="gender" required>
+                <option value="" disabled selected>Select your gender</option>
+                <option value="male">Male</option>
+                <option value="female">Female</option>
+                <option value="other">Other</option>
+            </select>
+
+            <label for="job_type">Job Type:</label>
+            <input type="text" id="job_type" name="job_type" placeholder="Enter the job type" required>
+
+            <button type="button" onclick="saveFormData()">Start Test</button>
+        </form>
+
+        <script>
+            function saveFormData() {
+                const name = document.getElementById('name').value;
+                const age = document.getElementById('age').value;
+                const gender = document.getElementById('gender').value;
+                const jobType = document.getElementById('job_type').value;
+
+                localStorage.setItem('name', name);
+                localStorage.setItem('age', age);
+                localStorage.setItem('gender', gender);
+                localStorage.setItem('job_type', jobType);
+
+                window.location.href = 'identity_verification.html';
+            }
+        </script>
+    </div>
+</body>
+</html>

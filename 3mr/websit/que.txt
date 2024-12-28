@@ -1,0 +1,533 @@
+1. What is your experience in software development?
+a. I have five years of software development experience, having worked on a variety of software projects from web applications to mobile applications and internal corporate software.
+2. Can you explain your previous projects and the roles you played in them?
+a. I have developed multiple smartphone applications and websites for several companies. I usually worked as a senior developer and was responsible for requirements analysis, system design, software development, and testing.
+3. How do you deal with complex technical problems?
+a. I believe in careful research and analysis of the problem, and I believe that working in a team spirit and cooperating with colleagues helps in finding the optimal solutions.
+4. What programming languages are you good at?
+a. I have strong experience in Java, Python, and JavaScript, as well as experience using other languages such as C++ and Ruby.
+5. How do you evaluate your ability to work under pressure and in work teams?
+a. I have the ability to work effectively under pressure, and prefer to work in a team environment where I can exchange ideas and learn from others.
+6. Do you have experience in developing mobile applications?
+a. Yes, I have extensive experience in developing smartphone applications for Android and iOS.
+7. How do you face the challenges of software development in an Agile environment?
+a. I am a believer in being flexible and adapting to the constant changes in the Agile environment. I appreciate the importance of ongoing collaboration and communication with the team to ensure project objectives are successfully achieved.
+8. What is your favorite role on the software development team?
+a. I prefer to work as a senior developer and contribute to requirements analysis, system design as well as software development.
+9. Do you have any relevant professional certifications?
+a. Yes, I have a certified certificate in smartphone application development from Google.
+10. How do you rate your ability to communicate the event with your team members and administrators?
+a. I believe in the importance of continuous and clear communication with the team and officials, and I use various communication tools such as periodic meetings and technical reports
+
+
+11. Do you have any experience managing projects or teams?
+a. Yes, I have experience in project management where I coordinated work schedules and distributed tasks among team members. I also managed a software development team on previous projects.
+12. How do you deal with the challenges facing continuous technology updates?
+a. I am a believer in the importance of continuous learning and following the latest developments in the field of technology. I participate in training courses and workshops to learn new technologies and apply them at work.
+13. Do you have experience in UI/UX development?
+a. Yes, I have experience in User Interface (UI) and User Experience (UX) development, where I have designed and developed attractive and easy-to-use user interfaces in several projects.
+14. What tools and techniques do you use in your daily work?
+a. I use software development tools like Visual Studio Code and Git for version management, as well as programming languages like JavaScript, React, and Node.js.
+15. How do you evaluate the importance of quality in your software work?
+a. Quality priority is fundamental to me. I perform extensive testing and use the concept of Total Quality Management (TQM) to ensure the delivery of high-quality software products.
+16. What programming work have you done in your spare time or outside of work hours?
+a. In my free time, I develop new applications or contribute to open source projects to enhance my skills and develop myself.
+17. How do you maintain a high level of modernity and sophistication in the field of software development?
+a. I keep up with technical articles and blogs, participate in programming forums and groups, and attend technical conferences.
+18. How do you contribute to a collaborative and creative work environment?
+a. I contribute to the collaborative work environment by participating in innovative thinking sessions and exchanging ideas with team members to find creative solutions to diverse challenges.
+19. Do you have any ideas or projects that you would like to implement in the company?
+a. Yes, I have many ideas for developing new products and improving existing processes, and I look forward to contributing to their implementation.
+20. How do you evaluate the importance of continuous learning and skills development in the field of software development?
+a. I consider continuous learning essential for success in software development, and I invest in training and professional development courses to develop my skills and stay up to date with the latest technologies and tools.
+
+21. Of course, here are some questions about programming with possible answers:
+
+22. **What programming language do you think you are good at?**
+a. Answer: “I am proficient in programming languages such as Python and JavaScript, as I have extensive experience in developing web applications using them.”
+
+23. **Can you explain your previous experience in software development?**
+a. Answer: “Of course, I have worked on various projects, from web application development to mobile app development. I have developed content management systems, e-commerce applications, and artificial intelligence applications.”
+
+24. **How do you deal with complex technical problems?**
+a. Answer: “I rely on careful analysis of the problem and use my research and exploration skills to find effective solutions. I also collaborate with my teammates to exchange ideas and collaborate on solving the problem.”
+
+25. **What tools and techniques do you use in your daily work?**
+a. Answer: "I use Git for version management and track changes, and I rely on IDEs like Visual Studio Code to develop applications. Additionally, I use popular frameworks like React.js and Django to develop web applications."
+
+26. **How do you evaluate the importance of quality in your software work?**
+a. Answer: “I always focus on writing clean and maintainable code, and ensure I apply best practices in my work. I also conduct unit tests and automated tests on a regular basis to ensure the quality of the applications I develop.”
+
+27. **What is the best method you learned from Did you learn programming from her?**
+a. Answer: “For me, the best way to learn programming was through practice and building actual projects. I also followed online courses and participated in technical communities to exchange knowledge.”
+
+28. **How do you motivate yourself for continuous development in the field of programming?**
+a. Answer: “I am always looking for new challenges and exciting projects that will enable me to develop my skills. I also make sure to follow the latest technical developments and participate in programming communities to keep myself inspired and motivated.”
+
+29. These are some questions and answers that may be useful in job interviews or for discussions about the field of programming. If you need further questions or help with anything else, don't hesitate to ask.
+
+30. Naturally, here are some additional questions:
+
+31. **What is your experience in dealing with databases?**
+a. Answer: "I have extensive experience designing databases and executing complex SQL queries. I am also able to use database management systems such as MySQL and PostgreSQL with confidence."
+
+32. **How do you evaluate your ability to work under pressure and in work teams?**
+a. Answer: “I believe that working under pressure shows effectiveness and efficiency, and I have learned how to manage my time well and achieve desired goals, even under high-pressure conditions. In addition, I like working in diverse teams and value communication and cooperation with my colleagues.”
+
+33. **What steps do you take to keep learning and developing your programming skills?**
+a. Answer: “I always read articles and follow technical news, in addition to attending available training courses and workshops. I also try to apply new technologies in my personal projects to expand my knowledge and skills.”
+
+34. **What is your experience in developing mobile applications?**
+a. Answer: “I have extensive experience in developing mobile applications across multiple platforms such as iOS and Android, using technologies such as React Native and Flutter. I have developed multiple applications covering a variety of industries and domains.”
+
+35. **What steps do you follow to solve the technical problems you face in your work?**
+a. Answer: “I start by identifying the roots of the problem and analyzing them carefully, then I search for appropriate solutions using reliable sources and previous experiences. I also make sure to document processes and exchange knowledge with my colleagues to achieve the best results.”
+
+36. If you have further questions or any other inquiries, please feel free to ask
+37. Of course, here are the answers to the questions:
+
+38. **What is the famous programming principle that you use in your work?**
+a. Answer: I rely on the Keep It Simple, Stupid (KISS) principle, which encourages simplicity in code design and avoids excessive complexity.
+
+39. **How can you improve the performance of the applications you develop?**
+a. Answer: I can improve the performance of applications by using distributed computing techniques, optimizing database queries, and optimizing the use of resources such as memory and processor.
+
+40. **What is the importance of the DRY (Don't Repeat Yourself) principle in writing code?**
+a. Answer: The DRY principle aims to avoid duplication of code, which increases maintainability, reduces errors, and makes the code more efficient and easier to understand.
+
+41. **What is the role of Git technology in the software development process?**
+a. Answer: Git technology makes it easier to manage code versions and work together on them, which makes it easier to track changes, manage branches, and resolve conflicts between different code.
+
+42. **What are code documentation best practices and why are they important?**
+a. Answer: Best practices for documenting code include adding clear and detailed comments and documentation, which makes the code easier to understand and maintain later.
+
+43. **How do you deal with the problem of rapid deployment (Continuous Deployment) in software development?**
+a. Ans: I use rapid deployment processes like CI/CD and follow the principle of automated testing to ensure code quality and quick response to changes.
+
+44. **What is the concept of “Clean Code” and why is it important in software development?**
+a. Answer: “Clean Code” refers to writing code in a clean, maintainable and understandable way, which makes development and modifications easier and more effective.
+45. Do you need more answers or have any additional questions?!
+46. Medicines
+47. What is your experience in the pharmaceutical industry?
+a. I have five years of experience in the pharmaceutical industry, where I worked in development, manufacturing and quality control.
+48. Can you detail your previous experience in drug development and manufacturing?
+a. I have worked on the development and manufacture of various medicines, including new medicines and new generation medicines, and have implemented industrial processes in compliance with stringent quality and regulatory requirements.
+49. How do you deal with the challenges facing the drug development and manufacturing process?
+a. I rely on technical expertise and scientific knowledge to analyze challenges and search for innovative solutions, in addition to teamwork and continuous communication with the team.
+50. What key skills do you think are important for working in the pharmaceutical industry?
+a. Key skills include deep scientific knowledge, ability to work under pressure, analytical skills, communication skills, and attention to detail.
+51. How do you rate your ability to deal with strict technical specifications and regulations in pharmaceutical manufacturing?
+a. I constantly check specifications and regulations and ensure a deep understanding of them, and I rely on a total quality approach to ensure compliance.
+52. Do you have experience in R&D to develop new medicines?
+a. Yes, I have experience in research and development, having participated in several projects to develop new medicines and improve existing ones.
+53. How do you address the challenges facing the pharmaceutical industry regarding government regulations and laws?
+a. I rely on compliance with strict regulations and laws, and I collaborate with the compliance team to ensure compliance with laws and regulations.
+54. What is your favorite role on the team at a pharmaceutical company?
+a. I prefer working as part of a multidisciplinary team and contributing to all aspects of the drug development and manufacturing process.
+55. Do you have any professional certifications or additional training in the pharmaceutical industry?
+a. Yes, I am certified in Pharmaceutical Industry and Legal Compliance.
+56. How do you rate your ability to communicate effectively with the team and officials at the pharmaceutical company?
+a. I use effective and open communication to express ideas and concerns and ensure alignment among all team members
+ 
+
+
+
+
+57. Do you have experience managing industrial operations for pharmaceutical manufacturing?
+a. Yes, I have extensive experience in managing industrial operations in the pharmaceutical industry, including planning, implementation and monitoring of operations to ensure productivity and quality.
+58. How do you deal with risks and work pressures in the pharmaceutical industry?
+a. I deal with risks and pressures through good planning, organizing priorities, forming an effective work team, and periodically reviewing procedures to ensure compliance with industrial standards and laws.
+59. What are your skills in quality management and quality assurance in pharmaceutical manufacturing processes?
+a. I have strong skills in applying the concepts of Total Quality Management (TQM), Quality Assurance (QA) and Quality Control (QC), as well as using statistical tools such as statistical control charts.
+60. What tools and techniques do you use in your daily work in the pharmaceutical industry?
+a. I use quality management systems (QMS) such as LIMS and SAP, quality control tools such as HPLC and GC-MS, and statistical analysis tools such as Minitab.
+61. How do you evaluate the importance of safety and security in pharmaceutical manufacturing processes?
+a. Safety and security are a priority at every stage of the manufacturing process, and I implement specific procedures to ensure the safety of products and workers.
+62. How do you maintain a high level of modernization and development in the pharmaceutical industry?
+a. I rely on continuous monitoring of new research and technological developments and communication with the scientific community, and I encourage the work team to participate in training courses and workshops.
+63. How do you contribute to the collaborative and creative work environment in a pharmaceutical company?
+a. Contribute to a collaborative work environment by exchanging ideas and experiences with colleagues, supporting innovation, and organizing innovative work sessions.
+64. Do you have any ideas or projects that you would like to implement in the pharmaceutical industry?
+a. Yes, I have many ideas to improve manufacturing processes and develop new products that meet market needs.
+65. How do you evaluate the importance of continuous learning and skills development in the pharmaceutical industry?
+a. I see continuous learning and skills development as essential to keep up with developments in the industry and improve process performance.
+66. What future trends do you see as important for the pharmaceutical industry and how do you contribute to achieving them?
+a. I believe that the focus on biotechnology, innovative drug development, and the move toward personalized medicine will have a significant impact, and I seek to contribute to these trends through research, development, and innovation.
+67. Of course, here are more questions and their possible answers in an interview for a job in the pharmaceutical industry:
+
+68. **How do you deal with the challenges that arise as a result of government regulations and regulations in the pharmaceutical industry?**
+a. I deal with challenges arising from regulations and regulations in collaboration with relevant departments within the company, and using legal advice where necessary to ensure full compliance.
+
+69. **How do you evaluate the effectiveness of operations and data analysis in the pharmaceutical industry?**
+a. I use key performance metrics such as yield ratio and quality to evaluate the effectiveness of operations, and I rely on data analysis and available reports to identify trends and improve performance.
+
+70. **How do you deal with delicate manufacturing processes such as purifying raw materials and preparing solutions in the laboratory?**
+a. I implement strict quality control procedures and ensure product safety during all stages of manufacturing, coordinating with the relevant teams to achieve the highest hygiene and safety standards.
+
+71. **How do you manage the distribution of finished products and handle shipping and warehousing operations?**
+a. I ensure that distribution, shipping and warehousing processes are carefully organized, and I follow best practices to ensure the safety and quality of products during transportation and warehousing.
+72. **Do you have experience interacting with customers or suppliers in the pharmaceutical industry?**
+a. Yes, I have extensive experience interacting with customers and suppliers, including meeting their needs and guiding them effectively to ensure smooth cooperation.
+
+73. **How do you deal with emergencies or urgent problems that arise during manufacturing operations?**
+a. I follow pre-established emergency procedures and deal with urgent problems quickly and effectively, coordinating with relevant teams to identify and implement quick solutions.
+
+74. **How do you contribute to the development and implementation of quality improvement strategies in the pharmaceutical industry?**
+a. I contribute to the development of quality improvement strategies by analyzing data, identifying areas that need improvement, and implementing the necessary changes in cooperation with the relevant teams.
+
+75. **What methods do you use to ensure effective communication within the team and between different departments?**
+
+
+a. I use regular meetings, emails and regular reports to ensure effective communication and information sharing between different teams and departments.
+
+76. **How do you promote diversity and inclusion in the pharmaceutical industry’s work environment?**
+a. I encourage diversity and inclusion by providing equal opportunities and supporting a culture of respect and appreciation for different backgrounds and cultures in the work environment.
+
+77. **What is your strategy for achieving a balance between maintaining quality and meeting deadlines in manufacturing operations?**
+a. I rely on good planning and efficient organization of processes, with an emphasis on quality assurance and compliance with deadlines as equally important.
+78. Of course, here are more questions and their answers:
+
+79. **What is your strategy for dealing with new manufacturing technologies and innovations in the pharmaceutical industry?**
+a. First and foremost, I strive to stay aware of the latest technological and scientific developments in the pharmaceutical industry. Then, I evaluate the feasibility of applying these new technologies and innovations in industrial processes to obtain products of higher quality and improved efficiency.
+
+80. **How do you deal with challenges related to costs and resources in manufacturing operations?**
+a. I analyze processes and identify opportunities to improve efficiency and reduce costs without compromising product quality. I also manage resources intelligently and direct them to high priority areas.
+
+
+
+
+
+81. **What strategies do you follow to improve the efficiency of manufacturing operations?**
+a. I implement manufacturing processes based on standardized standards and apply total quality management methods such as Lean and Six Sigma. I also take an innovative approach to continuously analyze and improve processes.
+
+82. **How do you manage schedules and production planning in manufacturing operations?**
+a. I use advanced production management systems to analyze demand, determine effective schedules and plan production strategically, taking into account unforeseen changes and ensuring on-time delivery.
+
+83. **How do you deal with challenges related to changes in market requirements and customer aspirations in the pharmaceutical industry?**
+a. First, I listen to customer needs and understand market requirements well. Then, I work with my team to develop flexible strategies to meet these challenges quickly and efficiently.
+
+84. **What is your role in continuous improvement of manufacturing processes?**
+a. My role is to continuously analyze processes, identify areas that need improvement, and apply the necessary improvements using tools such as PDCA (Plan-Do-Check-Act) and DMAIC (Define, Measure, Analyze, Improve, Control).
+
+85. **What guidelines do you follow to ensure environmental and health compliance in manufacturing operations?**
+a. First, follow all local and international environmental and health laws and regulations. Then, I work to implement environmentally friendly practices and improve resource efficiency.
+
+86. **What safety principles do you put in place in your workplace?**
+a. First, I consider safety to be the highest priority in all operations. I provide appropriate training to employees, provide protective equipment and implement strict safety procedures.
+
+87. **How do you work to enhance the culture of innovation and creativity in your team?**
+a. I encourage my team to...
+
+88. Explore new ideas and exchange knowledge and experiences. It also created incentive programs to encourage creativity and provide innovative solutions.
+
+89. **How do you evaluate your professional development and enhance your skills in the field of pharmaceutical manufacturing?**
+a. I invest in continuous learning and training on the latest technologies and practices in the pharmaceutical industry. I also seek to participate in specialized seminars and workshops to exchange knowledge and experiences.
+90. Of course, here are more questions and answers:
+
+91. **What is your opinion on the challenges facing the pharmaceutical industry currently? How do you plan to deal with it?**
+a. I believe challenges include technological innovation, stringent legislation, and changing market needs. In collaboration with my teams, I intend to implement flexible strategies and improve processes to meet customer needs and changes in the market.
+
+92. **What steps do you take to balance innovation and compliance in the pharmaceutical industry?**
+a. First, I seek to understand customer aspirations and changes in the market, then I implement new ideas and innovations in accordance with strict regulations and laws, focusing on quality and safety.
+
+93. **What is your strategy for dealing with complex problems in manufacturing operations?**
+a. My strategy includes carefully analyzing the root of the problem, avoiding relying on quick solutions, but rather focusing on searching for permanent and effective solutions that ensure the continuity of manufacturing operations.
+
+94. **How do you build and manage effective relationships with suppliers and supply chain partners in the pharmaceutical industry?**
+a. I carefully select and evaluate suppliers and apply strict standards to ensure the quality of raw materials, and I work to build cooperative relationships with them to ensure that materials are provided in the required quality and quantity in a timely manner.
+
+95. **How do you deal with difficult humanitarian and ethical situations that may arise in the pharmaceutical industry?**
+96. **What steps do you take to ensure continuity of manufacturing operations and secure supply?**
+a. I develop strategic plans to manage risks and implement emergency procedures, as well as develop collaborative relationships with key suppliers and evaluate reliance on different supply sources.
+
+97. **How do you deal with rapid technological changes in the pharmaceutical industry?**
+a. I stay aware of the latest technological developments and work to implement new technologies that help improve operations and increase productivity.
+
+98. **What is your role in promoting a culture of safety and security in the work environment?**
+a. My role includes promoting awareness of the importance of safety and following safety procedures carefully and encouragingly
+
+99. Employees are encouraged to report risks and accidents and work to continuously improve the work environment.
+
+100. **How do you support innovation and encourage innovative thinking in your team?**
+a. I encourage my team to embrace innovative thinking and present new ideas, and I provide the necessary assistance and support to transform these ideas into practical projects and initiatives.
+
+
+
+101. **What advice do you have for someone who wants to enter the pharmaceutical industry?**
+a. My advice is to continue learning and developing skills, stay up to date with the latest developments in the industry, and work hard to achieve success in this vital and evolving field.
+
+
+102. **Give me an introduction about yourself.**
+103. **What is your greatest professional achievement, and why do you consider it the best?**
+104. **How do you deal with pressure and tension?**
+105. **Describe a situation in which you faced a major challenge at work and how you dealt with it.**
+106. **What motivates you to provide the best performance in your work?**
+107. **Can you discuss a situation where you had a disagreement with your supervisor, and how you handled it?**
+108. **Tell me about a time when you faced a tight deadline. How did you prioritize and organize your work?**
+109. **What is your biggest flaw, and how do you work to improve it?**
+110. **How do you deal with criticism?**
+111. **Can you give an example of a time when you successfully worked in a team to achieve a common goal?**
+112. **What do you know about our company, and why do you want to work here?**
+113. **How do you manage work-life balance?**
+114. **Describe a situation in which you needed to adapt to changes quickly.**
+115. **What style of work do you prefer?**
+116. **How do you stay up to date with the latest industry trends and developments?**
+117. **Tell me about a time when you categorized images based on their content.**
+118. **How do you use image processing techniques to enhance or manipulate them?**
+119. **What are the basics of computer vision and how can computers interpret and understand images and video?**
+120. **How to use feature extraction in the field of computer vision?**
+121. **What are the techniques for recognizing and detecting objects in images or video stream?**
+122. **How are images classified based on their content and what are the common techniques used for this?**
+123. **What is tracking in the context of computer vision and what techniques are used to determine the movement of objects in an image or video stream?**
+124. **What is the scenario reconstruction process in computer vision?**
+125. **What are the concepts of image processing and how can digital images be enhanced or manipulated using them?**
+126. **How do machine learning and deep learning handle computer vision tasks?**
+127. **What is the role of augmented reality in the field of computer vision and how are computer vision techniques used in it?**
+128. **How to convert an audio file from MP3 to WAV format using Python?**
+129. **How to play an audio file in Python using the pygame library?**
+130. **What steps can you take to stay organized and ensure you don't miss anything in the work environment?**
+131. **How do you deal with stress and pressure in the workplace?**
+132. **What are your biggest challenges in teamwork?
+133. How do you manage success in a collaborative project?
+134. Can you provide an example of how to motivate a team in a difficult situation?
+135. How do you evaluate the effectiveness of communication in your work team?
+136. What are your plans to improve your personal and professional skills?
+137. How do you deal with rejection or failure?
+138. How do you deal with co-workers who do not contribute positively?
+139. What is your strategy for achieving balance between personal and professional life?
+140. How do you face technical or technological challenges at work?
+141. What are your best skills that can contribute to this role?
+142. How do you evaluate failure and what do you learn from it?
+143. How do you manage your time to achieve productivity?
+144. How do you take responsibility for difficult decisions?
+145. What is the most challenging work challenge you have faced and how did you deal with it?
+146. How do you contribute to creating a positive work environment?
+147. How do you deal with doubts or uncertainty at work?
+148. How do you build and maintain good customer relationships?
+149. How do you prove your value to the company during times of crisis?
+150. How do you motivate yourself when you feel down?
+151. How do you manage work tensions?
+152. What is your method of providing feedback to your colleagues?
+153. How do you keep your skills up to date in a rapidly changing world?
+154. What is your strategy for developing the work team?
+155. How do you evaluate and encourage innovation in the workplace?
+156. What is your favorite role on the team and why?
+157. How do you prioritize when there are multiple tasks and time pressure?
+158. How do you manage competition among team members?
+159. How do you deal with cultural challenges in an international business environment?
+160. How do you handle disagreements between team members?
+161. What is your strategy to improve the quality of work?
+162. How do you contribute to building the company’s brand identity?
+163. How do you manage your digital presence and use of social media in a work context?
+164. How do you achieve diversity and inclusion in the workplace?
+165. What is your role in motivating others and enhancing team spirit?
+166. How do you deal with customers or colleagues who complain frequently?
+167. How do you overcome economic or financial challenges at work?
+168. What is your experience in managing large projects?
+169. How do you contribute to improving the company’s performance?
+170. What role do you play?
+171. How do you use analytics and data to make business decisions?
+172. How do you deal with recessions or difficult periods in the industry?
+173. What is your strategy to attract  
+
+
+
+
+
+
+174. B and talent retention?
+175. How do you manage changes in organization structure or policies?
+176. How do you evaluate the effectiveness of marketing campaigns and improve them?
+177. How do you analyze market performance and identify opportunities?
+178. What is your experience in dealing with business partners or suppliers?
+179. How do you manage digital transformation in your organization?
+180. How do you evaluate and improve pricing strategies?
+181. What is your experience in improving customer experience?
+182. How do you manage problems or crises at work?
+183. How do you manage emerging technology or innovation in business?
+184. What is your role in developing and directing the R&D team?
+185. How do you help improve and ensure quality procedures at work?
+186. How do you improve sourcing operations and supply chain management?
+187. What is your role in promoting sustainability or social responsibility at work?
+188. How do you manage communication with international partners or clients?
+189. How do you deal with security challenges in the digital environment?
+190. What is your strategy to enhance innovation and creativity at work?
+191. How do you manage large change processes in an organization?
+192. How do you evaluate the performance of team members and provide reinforcement?
+193. What is your strategy to improve interaction with customers via social media?
+194. How do you deal with legal or regulatory challenges at work?
+195. What is your experience in developing and implementing recruitment strategies?
+196. How do you manage communication with the media or press?
+197. What is your strategy for achieving excellence in customer service?
+198. How do you benefit from data analytics to improve operational performance?
+199. What is your role in enhancing interaction between different departments in the company?
+200. How do you manage the challenges of growth in a competitive market?
+201. How do you handle customer complaints and turn them into service improvements?
+202. What are my strategies?
+
+
+
+
+
+
+
+203. Your gateway to improving diversity and inclusion in the workplace?
+204. How do you deal with market fluctuations and economic challenges?
+205. What is your role in promoting innovation and leadership in the company?
+206. How do you manage quality checks and compliance assurance?
+207. What is your strategy to enhance customer satisfaction and loyalty?
+208. How do you evaluate and enhance employees’ performance at work?
+209. What is your role in promoting digital transformation in the company?
+210. How do you manage innovation at work and motivate the team to think creatively?
+211. What is your strategy for achieving organizational excellence in a competitive market?
+212. How do you manage product or service development processes?
+213. What is your role in building and strengthening relationships with key clients?
+214. How do you manage communication with business partners and key customers?
+215. What is your role in promoting innovation and implementing new ideas in the organization?
+216. How do you deal with environmental or business sustainability challenges in your sector?
+217. What is your strategy to enhance teamwork and interaction in the team?
+218. How do you manage major changes in organization structure or strategy?
+219. What is your role in promoting innovation and developing a culture of creativity in the organization?
+220. How do you manage innovation within the organization and encourage creative thinking?
+221. What is your strategy for retaining talented employees and promoting their development?
+222. How do you deal with ethical challenges in your business or industry?
+223. What is your role in developing and directing innovation in work teams?
+224. How do you manage major changes in organizational structure or policies?
+225. What is your experience in analyzing business data and using it to make decisions?
+226. How do you manage digital transformation in your organization and promote digital sustainability?
+227. What is your role in developing and directing innovation in your business sector?
+228. How do you effectively manage major changes in organizational structure or policies?
+229. What is your strategy for analyzing and evaluating emerging or new markets?
+230. How do you manage the challenges of developing products or services in a competitive market?
+231. What is your role in promoting innovation and leadership in the digital society?
+232. How do you strategically manage major changes in organizational structure or policies?
+233. What is your experience in successfully implementing product or service development strategies?
+234. 1. What is your educational background and experience in the pharmaceutical industry?
+235. 2. How can you apply scientific and technical knowledge in pharmaceutical work?
+236. 3. How do you manage pressure and deadlines in a pharmaceutical work environment?
+237. 4. How do you deal with ethical challenges that may arise in developing and marketing medicines?
+238. 5. How do you deal with international and local regulations and legislation related to the pharmaceutical industry?
+239. 6. What are your communication skills with the R&D and production teams within the company?
+240. 7. How do you evaluate yourself in the field of innovation and development of new pharmaceutical products?
+241. 8. How do you deal with rapid technological changes in the pharmaceutical industry?
+242. 9. What is your experience in managing pharmaceutical projects?
+243. 10. How do you intend to contribute to improving the quality and safety of pharmaceutical products?
+244. 1. What is your experience in the pharmaceutical industry?
+245. 2. How can you apply your knowledge of chemistry or pharmacy to this role?
+246. 3. What are your skills in graphic analysis and interpretation in the context of clinical research?
+247. 4. How do you deal with legal and regulatory obligations in the pharmaceutical industry?
+248. 5. What is your experience in clinical trial design and data analysis?
+249. 6. How do you manage time and deadlines in the context of drug development and marketing?
+250. 7. How do you deal with the pressure and challenges you may face in the field of research and development?
+251. 8. What are your communication skills with multiple work teams and partner companies?
+252. 9. How do you work within an environment that relies on innovation and continuous development?
+253. 10. What are your skills in project management and organizing work in the pharmaceutical field?
+254. 1. What is your previous experience in the Ado industry?
+255. 2. How do you handle strict deadlines in a pharmaceutical work environment?
+256. 3. What are your skills in communicating with different work teams within the company?
+257. 4. How do you evaluate your ability to work under pressure in emergency situations?
+258. 5. What are your problem-solving and decision-making skills in the context of the pharmaceutical industry?
+259. 6. How do you manage your time to carry out tasks efficiently in a dynamic work environment?
+260. 7. What are your skills in dealing with and analyzing data in the context of pharmaceutical research?
+261. 8. How do you work in a multicultural environment with diverse experiences?
+262. 9. What is your experience in following regulations and legislation related to the pharmaceutical industry?
+263. 10. How do you contribute to enhancing health culture and patient safety in your current role?
+264. **Introduce yourself:**
+   - I am a professional in the field of [your specialization]. I hold a [your degree] from [your university] and have [number of years] years of work experience. I am proficient in [mention key skills] and have achieved [highlight your notable achievements].
+
+265. **What are your strengths?**
+   - My strengths lie in [mention relevant strengths for the applied position].
+
+266. **What are your weaknesses?**
+   - I am aware of [mention a weakness], but I am actively working on improving myself in this area.
+
+267. **How do you see yourself?**
+   - I am a person with [mention your qualities], and I believe [mention additional aspects not covered in the resume].
+
+268. **What are your greatest professional achievements?**
+   - Among my significant achievements is [mention a tangible accomplishment] that reflects my abilities and contributions in [your field].
+
+269. **When can you start working?**
+   - I can start working by [specify a suitable start time].
+
+270. **What do you know about the company you're applying to?**
+   - I am familiar with [evaluate your knowledge of the company's activities] and how it aligns with my experiences and skills.
+
+8. **Why should we choose you?**
+   - What makes me unique is [mention a distinguishing feature] and I believe my experience and skills perfectly match the company's needs.
+
+9. **Why do you want this job?**
+   - I want this job because of [mention your motivations and passion for the position].
+
+10. **How do you develop yourself during work?**
+   - I am committed to self-development through [mention how you continue to learn and grow].
+
+11. **Which companies have you applied to for this position?**
+    - I have applied to [mention examples of companies] and believe that this job aligns perfectly with my experience and skills.
+
+12. **What salary are you looking for?**
+    - I expect a salary that aligns with [mention your salary criteria] based on the company's salary structure.
+
+13. **Tell me about your experience working in a team.**
+    - During my experience, [mention your team experience and how you interact with team members to achieve common goals].
+
+14. **Tell me about your experience as a leader.**
+    - I am capable of [mention leadership skills and how you manage subordinates and motivate the team to achieve goals].
+
+15. **Why do you want to leave your previous job (if applicable)?**
+    - I want to join [the company you're applying to] because [mention the reason for leaving your previous job and how you can improve your situation in the new organization].
+
+16. **What was your salary in your previous job?**
+    - My previous salary was around [mention your average previous salary], but I am open to negotiation.
+
+17. **How do you handle a problem with a customer?**
+    - I rely on [mention your problem-solving strategy], focusing on resolving the issue and ensuring customer satisfaction.
+
+18. **How can you develop your skills?**
+    - I rely on [mention how you improve your skills] through self-learning, training courses, and practical experiences.
+
+19. **How do you deal with work pressure and additional tasks?**
+    - I typically manage pressure through [mention how you handle pressure and excel in additional tasks].
+
+20. **Critical "creative" questions**
+    - [Answer creative questions using the given words].
+
+21. **How many times do the clock hands overlap in a day?**
+    - The clock hands overlap [mention the number of times] in a day.
+
+22. **How can I say 5 days a week without mentioning Saturday, Sunday, Monday, Tuesday, or Wednesday?**
+    - I can say "Thursday and Friday" without mentioning the other days.
+Introduce your self ?
+Why do you choose our career ?
+Why do you choose our company?
+What’s your strengths and areas of development? 
+Where do you see yourself in 5 years ?
+What’s your hobbies and interests?
+Tell me a success story?
+Why should we hire you ?
+What motivates you ?
+Where did you hear about the position? 
+What is your student activities?
+What do you expect our salary?
+Sell a fridge in snowy city?
+Sell a pen for uneducated people?
+How will you deal with angry customer ? 
+How will you deal with an important client who have no time to visit ?
+How will you deal with an important client who have an issue with the company ? 
+What’s more important for you : money, career pathway or stability? and why ? 
+How will you deal with an un legal customer request?
+How will you react with a conflict with your manager ?
+How will you deal with pharmacists who gets your product from unethical way ?
+How will you deal with talented employees?
+How will you deal with talented employees and bad attitude?
+How will you take a decision when you facing an issue with yours subordinates?
+How will you divide your time between field and office work ?
+How will you divide your time between your subordinates?
+How do you forecast? 
+How do you get your target ?
+How will you develop our product ?
+What do you to launch a new product ? 
+What is the most successful product for you ?
+What’s the unique in our product ?
+Give me an example for successful presentation which you did ?
+
